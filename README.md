@@ -1,13 +1,13 @@
 O e-book aborda as correlações entre o fascinante universo - literalmente - da Astronomia, a evolução tecnológica humana aplicada às pesquisas espaciais, as crescentes demandas de infraestrutura de TI ocasionadas pelo volume imenso de dados coletados pelos diversos observatórios espaciais e a assistência fundamental que a Inteligência Artificial vem prestando aos cientistas no processamento de tais dados e em diversas outras frentes, revolucionando a forma como a Astronomia vem desenvolvendo novos contornos enquanto Ciência no século XXI.
 
 
-Ferramentas empregadas:
+- Ferramentas empregadas:
 
-Conteúdo: Lumo
+  - Conteúdo: Lumo
 
-Imagem: Gemini (Nano Banana)
+  - Imagem: Gemini (Nano Banana)
 
-Organização: Microsoft PowerPoint.
+  - Organização: Microsoft PowerPoint.
 
 
 Prompts utilizados:
