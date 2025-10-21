@@ -1,4 +1,3 @@
-Inteligência Celestial - Quando a IA Decifra os Segredos do Universo
-Este projeto de e-book foi desenvolvido durante o Bootcamp Fundamentos GenAI - DIO/Universia.
+Este e-book foi desenvolvido durante o Bootcamp Fundamentos GenAI - DIO/Universia.
 O e-book aborda as correlações entre o fascinante universo - literalmente - da Astronomia, a evolução tecnológica humana aplicada às pesquisas espaciais, as crescentes demandas de infraestrutura de TI ocasionadas pelo volume imenso de dados coletados pelos diversos observatórios espaciais e a assistência fundamental que a Inteligência Artificial vem prestando aos cientistas no processamento de tais dados e em diversas outras frentes, revolucionando a forma como a Astronomia vem desenvolvendo novos contornos enquanto Ciência no século XXI.
 O conteúdo foi criado com apoio da ferramenta de Inteligência Artificial generativa Lumo e organizado por Gabriel Miziara. A imagem da capa foi gerada pelo modelo Nano Banana do Google Gemini. Os prompts utilizados nas ferramentas mencionadas encontram-se no documento correspondente presente neste repositório.
